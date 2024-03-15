@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://durgeshmehar.github.io/)
+
 
 <h1 align="center">Hi 👋, I'm Durgesh Mehar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -6,11 +6,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 I’m currently working on [Youtube Clone Project](https://github.com/durgeshmehar/YouTube)
+- 🔭 I’m currently Looking for an full stack MERN intership
 
-- 🌱 I’m currently learning **Redux , Dynamic Programming**
+- 🌱 I have completed the web development in MERN with Next.js .
 
-- 👨‍💻 All of my projects are available at [http://durgeshmehar.github.io/](http://durgeshmehar.github.io/)
+- 👨‍💻 Portfolio : [http://durgeshmehar.vercel.app/](http://durgeshmehar.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@durgesh1510](https://hashnode.com/@durgesh1510)
 
