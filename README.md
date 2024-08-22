@@ -3,7 +3,7 @@
 
 I am a passionate Software Engineer specializing in Web Development, AI and Devops. My core skills include C++, Python, and JavaScript, along with frameworks like Django and Node.js. I am also experienced in cloud technologies and deployments using Docker, Kubernetes, Jenkins, and AWS.
 
-Over the last 2 years, I’ve contributed to various projects, includes over 435 commits, submitted 10 pull requests, and and contributed to 0 public repositories.
+Over the last 2 years, I’ve contributed to various projects, includes over 437 commits, submitted 10 pull requests, and and contributed to 0 public repositories.
 
 
 ## Most used languages across my projects:
@@ -18,7 +18,7 @@ Over the last 2 years, I’ve contributed to various projects, includes over 435
 
 ## Connect with me 📩
 
-<div >
+<div align="center">
 <a href="https://github.com/durgeshmehar?tab=repositories" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
