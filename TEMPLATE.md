@@ -6,14 +6,14 @@ I am a passionate Software Engineer specializing in Web Development, AI and Devo
 Over the last {{ ACCOUNT_AGE }} years, I’ve contributed to various projects, includes over {{ COMMITS }} commits, submitted {{ PULL_REQUESTS }} pull requests, and and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 
 
-### Most used languages across my projects:
+## Most used languages across my projects:
 
 {{ LANGUAGE_TEMPLATE_START:max=15 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
 
-### Connect with me 📩
+## Connect with me 📩
 
 <div align="center">
 <a href="https://github.com/durgeshmehar?tab=repositories" target="_blank">
