@@ -3,7 +3,7 @@
 
 I am a passionate Software Engineer specializing in Web Development, AI and Devops. My core skills include C++, Python, and JavaScript, along with frameworks like Django and Node.js. I am also experienced in cloud technologies and deployments using Docker, Kubernetes, Jenkins, and AWS.
 
-Over the last 2 years, I’ve contributed to various projects, includes over 483 commits, submitted 10 pull requests, and and contributed to 0 public repositories.
+Over the last 2 years, I’ve contributed to various projects, includes over 484 commits, submitted 10 pull requests, and and contributed to 0 public repositories.
 
 
 ## Most used languages across my projects:
