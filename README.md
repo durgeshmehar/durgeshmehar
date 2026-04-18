@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Durgesh Mehar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshmehar&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshmehar" /> </p>
+<h1 align="center">Hi 👋, I'm Durgesh Mehar</h1>
 
-I am a passionate Software Engineer specializing in Web Development, AI and Devops. My core skills include C++, Python, and JavaScript, along with frameworks like Django and Node.js. I am also experienced in cloud technologies and deployments using Docker, Kubernetes, Jenkins, and AWS.
+Backend Engineer · Python & Go · Healthcare Systems · AI Integrations
 
-Over the last 2 years, I’ve contributed to various projects, includes over 485 commits, submitted 10 pull requests, and and contributed to 0 public repositories.
+Currently building production backend at **EkaCare** — voice-to-prescription pipelines, sub-millisecond APIs, and medical search infrastructure at scale.
+Professional work lives at **[@durgeshateka](https://github.com/durgeshateka)** under the EkaCare org.
 
+**Stack:** Python · Go · Django · FastAPI · PostgreSQL · Redis · Elasticsearch · AWS · Docker · Kubernetes
 
+---
 ## Most used languages across my projects:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B154.3%25)
@@ -16,26 +19,24 @@ Over the last 2 years, I’ve contributed to various projects, includes over 485
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14%25)
 ![Procfile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233B2F63&message=Procfile%EF%B8%B10%25)
 
-
-## Connect with me 📩
-
-<div align="center">
-<a href="https://github.com/durgeshmehar?tab=repositories" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="http://durgeshmehar.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-8A2BE2?&style=for-the-badge&logo=medium&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/durgeshmehar/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/Durgeshmehar77" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-
-</div>
+---
+[![GitHub Work](https://img.shields.io/badge/@durgeshateka_(EkaCare)-181717?style=flat&logo=github&logoColor=white)](https://github.com/durgeshateka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgeshmehar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://durgeshmehar.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/durgeshmehar)
-[![GitHub Work](https://img.shields.io/badge/@durgeshateka_(EkaCare)-181717?style=flat&logo=github&logoColor=white)](https://github.com/durgeshateka)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
