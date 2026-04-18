@@ -35,3 +35,7 @@ Over the last 2 years, I’ve contributed to various projects, includes over 485
 
 
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgeshmehar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://durgeshmehar.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/durgeshmehar)
+[![GitHub Work](https://img.shields.io/badge/@durgeshateka_(EkaCare)-181717?style=flat&logo=github&logoColor=white)](https://github.com/durgeshateka)
