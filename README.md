@@ -4,7 +4,7 @@
 Backend Engineer · Python & Go · Healthcare Systems · AI Integrations
 
 Currently building production backend at **EkaCare** — voice-to-prescription pipelines, sub-millisecond APIs, and medical search infrastructure at scale.
-Professional work lives at **[@durgeshateka](https://github.com/durgeshmehar-dev)** under the EkaCare org.
+Professional work lives at **[@durgeshmehar-dev](https://github.com/durgeshmehar-dev)** under the EkaCare org.
 
 **Stack:** Python · Go · Django · FastAPI · PostgreSQL · Redis · Elasticsearch · AWS · Docker · Kubernetes
 
